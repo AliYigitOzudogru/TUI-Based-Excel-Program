@@ -1,0 +1,8 @@
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\bin\Debug\AlgoÖdev2.exe.config
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\bin\Debug\AlgoÖdev2.exe
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\bin\Debug\AlgoÖdev2.pdb
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\obj\Debug\AlgoÖdev2.csproj.AssemblyReference.cache
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\obj\Debug\AlgoÖdev2.csproj.CoreCompileInputs.cache
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\obj\Debug\AlgoÖdev2.exe
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\obj\Debug\AlgoÖdev2.pdb
+C:\Users\aliyi\source\repos\AlgoÖdev2\AlgoÖdev2\obj\Debug\AlgoÖdev2.exe.config
